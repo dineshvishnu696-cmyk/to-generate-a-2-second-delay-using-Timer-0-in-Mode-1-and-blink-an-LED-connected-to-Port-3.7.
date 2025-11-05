@@ -1,0 +1,1 @@
+# to-generate-a-2-second-delay-using-Timer-0-in-Mode-1-and-blink-an-LED-connected-to-Port-3.7.
